@@ -1,0 +1,18 @@
+.top{
+    width: 98%;
+    padding: 15px 20px;
+}
+
+.top-left {
+    float: left;
+}
+
+.icon-left {
+    float: left;
+}
+
+.logo-left{
+    width: 100%;
+    max-width: 70px;
+    margin-left: 20px;
+}
